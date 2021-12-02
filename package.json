@@ -7,6 +7,8 @@
     "serve": "vite preview"
   },
   "dependencies": {
+    "axios": "^0.24.0",
+    "miragejs": "^0.1.42",
     "react": "^17.0.0",
     "react-dom": "^17.0.0",
     "styled-components": "^5.3.3"
